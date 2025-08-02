@@ -1,21 +1,3 @@
----
-license: gpl-3.0
-datasets:
-- WICKED4950/Raw-GPT-traindata
-language:
-- en
-pipeline_tag: text-generation
-model_name: BwETAF
-metrics:
-- perplexity
-tags:
-- LLM
-- CLM
-- JAX
-- Flax
----
-
-
 # 🧾 BwETAFv2-53M: Model Card
 
 **Boring’s Experimental Transformer for Autoregression (Flax)**
